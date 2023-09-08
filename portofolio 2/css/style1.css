@@ -1,0 +1,38 @@
+body{
+	background-color: black;
+}
+
+
+
+.persoon p{
+	padding-top:40px;
+	font-size: 18px;
+	line-height: 22px;
+	color:black;
+}
+	
+	.persoon h1{
+	padding-top:40px;
+	line-height: 60px;
+	letter-spacing: 1px;
+	font-weight: 400;
+	color:red;
+}
+
+.container-fluid{
+   padding: 0px 600px !important;
+}
+
+
+.backimg{
+	background-image: url("rotterdam2.jpg");
+	background-repeat: no-repeat, repeat;
+}
+
+
+
+
+
+//
+
+
